@@ -72,8 +72,8 @@ Saída no serial monitor...
 
 ## 🙏 Agradecimentos
 
-- Agradecimento especial ao **MKesenheimer** pelo excelente trabalho com a biblioteca MQTT para o Pico:  
-  🔗 [https://github.com/MKesenheimer/pico-mqtt](https://github.com/MKesenheimer/pico-mqtt)
+- Agradecimento especial ao time da **BitDogLab** pelo excelente trabalho com a biblioteca MQTT para o Pico:  
+  🔗 [https://github.com/BitDogLab/BitDogLab-C/tree/main/iot_security_labmqtt]( https://github.com/BitDogLab/BitDogLab-C/tree/main/iot_security_lab)
 
 - Ao time do **FreeRTOS** pelo sistema operacional em tempo real robusto e confiável:  
   🔗 [https://freertos.org](https://freertos.org)
